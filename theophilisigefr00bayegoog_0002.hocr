@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theophilisigefr00bayegoog_0002.png"; bbox 0 0 2826 4619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 937 3280 1048 3399">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 937 3280 1048 3399">
+     <span class='ocr_line' id='line_1_1' title="bbox 937 3280 1048 3399; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 937 3280 1048 3399; x_wconf 57' lang='lat'>2*-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 775 3464 978 3501">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 775 3464 978 3501">
+     <span class='ocr_line' id='line_1_2' title="bbox 775 3464 978 3501; baseline 0.01 -22"><span class='ocrx_word' id='word_1_2' title='bbox 775 3475 783 3479; x_wconf 41' lang='lat'>.⁴</span> <span class='ocrx_word' id='word_1_3' title='bbox 793 3473 851 3485; x_wconf 54' lang='lat' dir='ltr'>*q</span> <span class='ocrx_word' id='word_1_4' title='bbox 866 3474 889 3479; x_wconf 84' lang='lat'>—</span> <span class='ocrx_word' id='word_1_5' title='bbox 949 3464 978 3501; x_wconf 46' lang='grc' dir='ltr'>οἷ’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1345 3501 1754 3642">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1345 3501 1754 3642">
+     <span class='ocr_line' id='line_1_3' title="bbox 1345 3501 1685 3576; baseline 0.009 -11"><span class='ocrx_word' id='word_1_6' title='bbox 1345 3524 1565 3573; x_wconf 60' lang='lat' dir='ltr'>aaqaecm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1615 3501 1685 3576; x_wconf 47' lang='grc' dir='ltr'>ἐξ.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1373 3585 1754 3642; baseline 0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1373 3585 1519 3641; x_wconf 60' lang='lat'>“⁷3‘&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 1621 3589 1646 3630; x_wconf 56' lang='grc' dir='ltr'><strong>ἶ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1729 3611 1754 3642; x_wconf 68' lang='lat'>2:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 50 351 2254 4503">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 50 351 2254 4503">
+     <span class='ocr_line' id='line_1_5' title="bbox 50 351 2254 4503; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 50 351 2254 4503; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
